@@ -1,0 +1,7 @@
+C:\Users\Kmiecik\Desktop\Wszystko\C#\AdbClicker\AdbClicker\bin\Debug\AdbClicker.exe.config
+C:\Users\Kmiecik\Desktop\Wszystko\C#\AdbClicker\AdbClicker\bin\Debug\AdbClicker.exe
+C:\Users\Kmiecik\Desktop\Wszystko\C#\AdbClicker\AdbClicker\bin\Debug\AdbClicker.pdb
+C:\Users\Kmiecik\Desktop\Wszystko\C#\AdbClicker\AdbClicker\obj\Debug\AdbClicker.csprojAssemblyReference.cache
+C:\Users\Kmiecik\Desktop\Wszystko\C#\AdbClicker\AdbClicker\obj\Debug\AdbClicker.csproj.CoreCompileInputs.cache
+C:\Users\Kmiecik\Desktop\Wszystko\C#\AdbClicker\AdbClicker\obj\Debug\AdbClicker.exe
+C:\Users\Kmiecik\Desktop\Wszystko\C#\AdbClicker\AdbClicker\obj\Debug\AdbClicker.pdb
